@@ -1,0 +1,16 @@
+{
+    "name": "duclt/docso",
+    "description": "package docso",
+    "authors": [
+        {
+            "name": "duclt3005",
+            "email": "duclt3005@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "":"src/"
+        }
+    },
+    "require": {}
+}
